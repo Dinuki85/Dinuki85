@@ -17,7 +17,7 @@ react,spring,java,mysql,mongodb,nodejs,express,figma,c,cpp,git,github,html,css,t
 
 ## GitHub Stats
 
-📊 **Public Repositories**: 2  
+📊 **Public Repositories**: 5
 👥 **Followers**: 0  
 👤 **Following**: 4  
 
