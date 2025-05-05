@@ -17,20 +17,10 @@ react,spring,java,mysql,mongodb,nodejs,express,figma,c,cpp,git,github,html,css,t
 
 ## GitHub Stats
 
-📊 **Public Repositories**: 5
-👥 **Followers**: 0  
-👤 **Following**: 4  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinuki85&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-## Recent Activity
 
-- Updated README for [SpringBoot](https://github.com/IT3232/SpringBoot)  
-- Created a new repository [Dinuki85](https://github.com/Dinuki85/Dinuki85)  
-- Pushed updates to [Simple E-Commerce Store](https://github.com/Dinuki85/Simple_E_Commerce_Store)  
-- Contributed to [DisasterWatchHQ](https://github.com/DisasterWatchHQ) projects  
-- Engaged in code reviews and discussions in various repositories.
 
 ## Connect with Me
 
-{https://www.linkedin.com/in/dinuki-prarthana}
+https://www.linkedin.com/in/dinuki-prarthana
