@@ -21,6 +21,4 @@ react,spring,java,mysql,mongodb,nodejs,express,figma,c,cpp,git,github,html,css,t
 
 
 
-## Connect with Me
 
-https://www.linkedin.com/in/dinuki-prarthana
