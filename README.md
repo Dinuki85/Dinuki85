@@ -6,22 +6,27 @@
   I specialize in building robust, scalable applications using the latest tools and frameworks.
 </p>
 
-<h3 align="center">Technologies I work with</h3>
+<h3 align="center">Latest Technologies I work with</h3>
 
 <p align="center" style="max-width: 650px; line-height: 1.6;">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" width="90" height="28" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="70" height="28" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" width="80" height="28" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="70" height="28" />&nbsp;&nbsp;
+  
+</p>
+
+<h3 align="center">Now am improving my Skills with </h3>
+<p align="center" style="max-width: 650px; line-height: 1.6;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="85" height="28" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="80" height="28" />  
+    
 </p>
 
 <p align="center" style="max-width: 650px; line-height: 1.6; margin-top: 2rem;">
   Currently, I’m diving deep into the world of <strong>cloud computing</strong>, mastering containerization and orchestration technologies like  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="70" height="28" />  
-  and  
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" width="95" height="28" />,  
+  
   aiming to build cloud-native, scalable applications that thrive in production environments.
 </p>
 
@@ -93,7 +98,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" /><br />React
     </td>
     <td align="center" width="120">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="48" /><br />React Native
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" /><br />VS Code
     </td>
   </tr>
   <tr>
@@ -104,20 +109,15 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" /><br />Tailwind CSS
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" /><br />TypeScript
+      <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="48" /><br />IntelliJ IDEA
     </td>
   </tr>
 </table>
 
 <p style="margin-top: 3rem; overflow: hidden;">
+
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuki85&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
-    style="max-width: 48%; margin-right: 3%;"
-  />
-  <img
-    align="right"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=dinuki85&show_icons=true&locale=en"
     alt="GitHub Status"
     style="max-width: 48%;"
