@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinuki Prarthana</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center" style="max-width: 650px; line-height: 1.6;">
   I'm a dedicated full-stack developer who loves exploring modern web technologies and cloud ecosystems.
