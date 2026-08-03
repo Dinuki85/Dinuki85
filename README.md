@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center" style="max-width: 700px; line-height: 1.6;">
-I am an Information Technology graduate from the University of Vavuniya, specializing in 
+I am an Information Technology graduate from the University of Jaffna, specializing in 
 Software Engineering and Full-Stack Development. I enjoy designing and developing scalable,
 secure, and user-focused software solutions using modern technologies.
 </p>
