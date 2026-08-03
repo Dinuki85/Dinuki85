@@ -1,127 +1,129 @@
 <h1 align="center">Hi 👋, I'm Dinuki Prarthana</h1>
-<h3 align="center">Software Engineer</h3>
 
-<p align="center" style="max-width: 650px; line-height: 1.6;">
-  I'm a dedicated full-stack developer who loves exploring modern web technologies and cloud ecosystems.
-  I specialize in building robust, scalable applications using the latest tools and frameworks.
+<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
+
+<p align="center" style="max-width: 700px; line-height: 1.6;">
+I am an Information Technology graduate from the University of Vavuniya, specializing in 
+Software Engineering and Full-Stack Development. I enjoy designing and developing scalable,
+secure, and user-focused software solutions using modern technologies.
 </p>
 
-<h3 align="center">Latest Technologies I work with</h3>
-
-<p align="center" style="max-width: 650px; line-height: 1.6;">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" width="90" height="28" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="70" height="28" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" width="80" height="28" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="70" height="28" />&nbsp;&nbsp;
-  
-</p>
-
-<h3 align="center">Now am improving my Skills with </h3>
-<p align="center" style="max-width: 650px; line-height: 1.6;">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="85" height="28" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="80" height="28" />  
-    
-</p>
-
-<p align="center" style="max-width: 650px; line-height: 1.6; margin-top: 2rem;">
-  Currently, I’m diving deep into the world of <strong>cloud computing</strong>, mastering containerization and orchestration technologies like  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="70" height="28" />  
-  
-  aiming to build cloud-native, scalable applications that thrive in production environments.
-</p>
-
-<p align="center" style="max-width: 650px; line-height: 1.6; margin-top: 2rem;">
-  I enjoy crafting smooth user experiences and seamless interactions — making technology accessible and enjoyable for users and developers alike.
-</p>
-
-<hr style="margin: 3rem auto; max-width: 650px;" />
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/dinuki-prarthana" target="_blank" rel="noreferrer" style="margin: 0 10px; transition: transform 0.3s ease;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" />
-  </a>
-</p>
-
-<h3 align="center" style="margin-top: 3rem;">Languages and Tools:</h3>
-
-<table align="center" style="margin: auto;">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" /><br />C
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" /><br />C++
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" /><br />CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="48" /><br />.NET
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" /><br />Express
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" /><br />Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" /><br />HTML5
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" /><br />Java
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" /><br />JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" /><br />MongoDB
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" /><br />MySQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" /><br />Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" /><br />Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" /><br />React
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" /><br />VS Code
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="48" /><br />Spring
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" /><br />Tailwind CSS
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="48" /><br />IntelliJ IDEA
-    </td>
-  </tr>
-</table>
-
-<p style="margin-top: 3rem; overflow: hidden;">
-
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dinuki85&show_icons=true&locale=en"
-    alt="GitHub Status"
-    style="max-width: 48%;"
-  />
+  🚀 Passionate about Software Engineering, Artificial Intelligence, Large Language Models (LLMs), 
+  and building intelligent digital solutions.
 </p>
 
 
+<h3 align="center">🚀 Technologies I Work With</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+
+</p>
+
+
+<h3 align="center">💻 Backend & Development</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=api&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+
+</p>
+
+
+<h3 align="center">🤖 Research & Interests</h3>
+
+<p align="center" style="max-width:700px;">
+
+Artificial Intelligence • Large Language Models • Intelligent Software Engineering • 
+Automated Code Analysis • Code Smell Detection • Software Refactoring
+
+</p>
+
+
+<h3 align="center">🌱 Currently Improving My Skills</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+
+</p>
+
+
+<p align="center" style="max-width:700px;">
+
+I am continuously improving my knowledge in cloud-native application development,
+containerization, and modern software engineering practices to build scalable 
+and production-ready solutions.
+
+</p>
+
+
+<h3 align="center">💡 What I Do</h3>
+
+<p align="center">
+
+✔ Full-Stack Web Development <br>
+✔ Backend API Development <br>
+✔ Database Design & Management <br>
+✔ Software Architecture Design <br>
+✔ AI-based Software Solutions
+
+</p>
+
+
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/dinuki-prarthana">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+height="35" width="35"/>
+</a>
+
+</p>
+
+
+<h3 align="center">🛠 Languages and Tools</h3>
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+</p>
+
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dinuki85&show_icons=true&locale=en" />
+
+</p>
