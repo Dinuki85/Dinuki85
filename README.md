@@ -126,25 +126,6 @@ containerization, and scalable software architecture.
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dinuki85&show_icons=true&theme=transparent&hide_border=true"
-alt="GitHub stats"/>
-</p>
-
-<h3 align="center">💻 Most Used Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinuki85&layout=compact&theme=transparent&hide_border=true"
-       alt="Most used languages" />
-</p>
-
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dinuki85/Dinuki85/main/output/github-contribution-grid-snake.svg"
-       alt="GitHub contribution snake" />
 
 
 </p>
