@@ -27,6 +27,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+
 </p>
 
 
@@ -128,8 +129,8 @@ containerization, and scalable software architecture.
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinuki85&show_icons=true&theme=transparent&hide_border=true"
-       alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dinuki85&show_icons=true&theme=transparent&hide_border=true"
+alt="GitHub stats"/>
 </p>
 
 <h3 align="center">💻 Most Used Languages</h3>
