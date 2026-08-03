@@ -119,40 +119,31 @@ containerization, and scalable software architecture.
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/dinuki-prarthana">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-height="35" width="35"/>
-</a>
-
+  <a href="https://linkedin.com/in/dinuki-prarthana" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="35" width="35"/>
+  </a>
 </p>
-
-
 
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dinuki85&show_icons=true&theme=transparent&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinuki85&show_icons=true&theme=transparent&hide_border=true"
+       alt="GitHub stats" />
 </p>
-
-
 
 <h3 align="center">💻 Most Used Languages</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinuki85&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinuki85&layout=compact&theme=transparent&hide_border=true"
+       alt="Most used languages" />
 </p>
-
-
 
 <h3 align="center">🐍 GitHub Contribution Snake</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Dinuki85/Dinuki85/main/output/github-contribution-grid-snake.svg"
+       alt="GitHub contribution snake" />
 
-<img src="https://raw.githubusercontent.com/dinuki85/dinuki85/output/github-contribution-grid-snake.svg"/>
 
 </p>
